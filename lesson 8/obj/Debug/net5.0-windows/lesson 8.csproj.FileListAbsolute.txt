@@ -1,0 +1,21 @@
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\lesson 8\bin\Debug\net5.0-windows\lesson 8.exe
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\lesson 8\bin\Debug\net5.0-windows\lesson 8.deps.json
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\lesson 8\bin\Debug\net5.0-windows\lesson 8.runtimeconfig.json
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\lesson 8\bin\Debug\net5.0-windows\lesson 8.runtimeconfig.dev.json
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\lesson 8\bin\Debug\net5.0-windows\lesson 8.dll
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\lesson 8\bin\Debug\net5.0-windows\lesson 8.pdb
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\lesson 8\bin\Debug\net5.0-windows\8 lesson 8.Business.dll
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\lesson 8\bin\Debug\net5.0-windows\8 lesson 8.Business.pdb
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\lesson 8\obj\Debug\net5.0-windows\lesson 8.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\lesson 8\obj\Debug\net5.0-windows\lesson_8.Form1.resources
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\lesson 8\obj\Debug\net5.0-windows\lesson 8.csproj.GenerateResource.cache
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\lesson 8\obj\Debug\net5.0-windows\lesson 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\lesson 8\obj\Debug\net5.0-windows\lesson 8.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\lesson 8\obj\Debug\net5.0-windows\lesson 8.AssemblyInfo.cs
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\lesson 8\obj\Debug\net5.0-windows\lesson 8.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\lesson 8\obj\Debug\net5.0-windows\lesson 8.csproj.CopyComplete
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\lesson 8\obj\Debug\net5.0-windows\lesson 8.dll
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\lesson 8\obj\Debug\net5.0-windows\refint\lesson 8.dll
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\lesson 8\obj\Debug\net5.0-windows\lesson 8.pdb
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\lesson 8\obj\Debug\net5.0-windows\lesson 8.genruntimeconfig.cache
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\lesson 8\obj\Debug\net5.0-windows\ref\lesson 8.dll

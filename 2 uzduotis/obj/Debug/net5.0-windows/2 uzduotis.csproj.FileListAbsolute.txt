@@ -1,0 +1,21 @@
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\2 uzduotis\bin\Debug\net5.0-windows\2 uzduotis.exe
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\2 uzduotis\bin\Debug\net5.0-windows\2 uzduotis.deps.json
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\2 uzduotis\bin\Debug\net5.0-windows\2 uzduotis.runtimeconfig.json
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\2 uzduotis\bin\Debug\net5.0-windows\2 uzduotis.runtimeconfig.dev.json
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\2 uzduotis\bin\Debug\net5.0-windows\2 uzduotis.dll
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\2 uzduotis\bin\Debug\net5.0-windows\2 uzduotis.pdb
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\2 uzduotis\bin\Debug\net5.0-windows\paskaita 8 darbas 02.Bussines.dll
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\2 uzduotis\bin\Debug\net5.0-windows\paskaita 8 darbas 02.Bussines.pdb
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\2 uzduotis\obj\Debug\net5.0-windows\2 uzduotis.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\2 uzduotis\obj\Debug\net5.0-windows\_2_uzduotis.Form1.resources
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\2 uzduotis\obj\Debug\net5.0-windows\2 uzduotis.csproj.GenerateResource.cache
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\2 uzduotis\obj\Debug\net5.0-windows\2 uzduotis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\2 uzduotis\obj\Debug\net5.0-windows\2 uzduotis.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\2 uzduotis\obj\Debug\net5.0-windows\2 uzduotis.AssemblyInfo.cs
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\2 uzduotis\obj\Debug\net5.0-windows\2 uzduotis.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\2 uzduotis\obj\Debug\net5.0-windows\2 uzduotis.csproj.CopyComplete
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\2 uzduotis\obj\Debug\net5.0-windows\2 uzduotis.dll
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\2 uzduotis\obj\Debug\net5.0-windows\refint\2 uzduotis.dll
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\2 uzduotis\obj\Debug\net5.0-windows\2 uzduotis.pdb
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\2 uzduotis\obj\Debug\net5.0-windows\2 uzduotis.genruntimeconfig.cache
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\2 uzduotis\obj\Debug\net5.0-windows\ref\2 uzduotis.dll

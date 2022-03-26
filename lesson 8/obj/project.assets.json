@@ -1,0 +1,93 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "8 lesson 8.Business/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/8 lesson 8.Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/8 lesson 8.Business.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "8 lesson 8.Business/1.0.0": {
+      "type": "project",
+      "path": "../8 lesson 8.Business/8 lesson 8.Business.csproj",
+      "msbuildProject": "../8 lesson 8.Business/8 lesson 8.Business.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "8 lesson 8.Business >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\User\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\repos\\lesson 8\\lesson 8\\lesson 8\\lesson 8.csproj",
+      "projectName": "lesson 8",
+      "projectPath": "C:\\Users\\User\\Desktop\\repos\\lesson 8\\lesson 8\\lesson 8\\lesson 8.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\repos\\lesson 8\\lesson 8\\lesson 8\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "C:\\Users\\User\\Desktop\\repos\\lesson 8\\lesson 8\\8 lesson 8.Business\\8 lesson 8.Business.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\repos\\lesson 8\\lesson 8\\8 lesson 8.Business\\8 lesson 8.Business.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

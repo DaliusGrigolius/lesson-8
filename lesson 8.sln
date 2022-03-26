@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lesson 8", "lesson 8\lesson 8.csproj", "{8FC0A909-DCEA-4814-B653-E1F102A2DA52}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8 lesson 8.Business", "8 lesson 8.Business\8 lesson 8.Business.csproj", "{3D3683AA-78C5-4C95-9024-41A1B8FED958}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetSet", "GetSet\GetSet.csproj", "{922AF5A0-FF63-4648-A818-5AD1097A8E79}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2 uzduotis", "2 uzduotis\2 uzduotis.csproj", "{CBB5E259-0D0A-4F81-BF73-59EF628AC0B3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "paskaita 8 darbas 02.Bussines", "paskaita 8 darbas 02.Bussines\paskaita 8 darbas 02.Bussines.csproj", "{A051AFAD-73DD-4276-A0BA-2DDCC6009BB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalmeTestai", "PalmeTestai\PalmeTestai.csproj", "{2BD7D7CE-B2B3-4618-85BA-1F1DAFC9CDA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FC0A909-DCEA-4814-B653-E1F102A2DA52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FC0A909-DCEA-4814-B653-E1F102A2DA52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FC0A909-DCEA-4814-B653-E1F102A2DA52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FC0A909-DCEA-4814-B653-E1F102A2DA52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D3683AA-78C5-4C95-9024-41A1B8FED958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D3683AA-78C5-4C95-9024-41A1B8FED958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D3683AA-78C5-4C95-9024-41A1B8FED958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D3683AA-78C5-4C95-9024-41A1B8FED958}.Release|Any CPU.Build.0 = Release|Any CPU
+		{922AF5A0-FF63-4648-A818-5AD1097A8E79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{922AF5A0-FF63-4648-A818-5AD1097A8E79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{922AF5A0-FF63-4648-A818-5AD1097A8E79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{922AF5A0-FF63-4648-A818-5AD1097A8E79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBB5E259-0D0A-4F81-BF73-59EF628AC0B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB5E259-0D0A-4F81-BF73-59EF628AC0B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB5E259-0D0A-4F81-BF73-59EF628AC0B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB5E259-0D0A-4F81-BF73-59EF628AC0B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A051AFAD-73DD-4276-A0BA-2DDCC6009BB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A051AFAD-73DD-4276-A0BA-2DDCC6009BB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A051AFAD-73DD-4276-A0BA-2DDCC6009BB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A051AFAD-73DD-4276-A0BA-2DDCC6009BB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BD7D7CE-B2B3-4618-85BA-1F1DAFC9CDA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BD7D7CE-B2B3-4618-85BA-1F1DAFC9CDA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BD7D7CE-B2B3-4618-85BA-1F1DAFC9CDA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BD7D7CE-B2B3-4618-85BA-1F1DAFC9CDA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38038731-8478-4403-AF5B-C2F9D7084016}
+	EndGlobalSection
+EndGlobal

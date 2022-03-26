@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "2 uzduotis/1.0.0": {
+        "runtime": {
+          "2 uzduotis.dll": {}
+        }
+      },
+      "paskaita 8 darbas 02.Bussines/1.0.0": {
+        "runtime": {
+          "paskaita 8 darbas 02.Bussines.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2 uzduotis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "paskaita 8 darbas 02.Bussines/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
