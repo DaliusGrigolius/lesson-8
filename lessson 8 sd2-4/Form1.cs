@@ -17,10 +17,11 @@ namespace lessson_8_sd2_4
         public Form1()
         {
             InitializeComponent();
+            forest = new Forest();
         }
 
         private void button1_Click(object sender, EventArgs e)
-        {            
+        {
             forest.PlantATree(textBox1);
         }
 
