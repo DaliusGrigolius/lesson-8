@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2 uzduotis", "2 uzduotis\2 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "paskaita 8 darbas 02.Bussines", "paskaita 8 darbas 02.Bussines\paskaita 8 darbas 02.Bussines.csproj", "{A051AFAD-73DD-4276-A0BA-2DDCC6009BB8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalmeTestai", "PalmeTestai\PalmeTestai.csproj", "{2BD7D7CE-B2B3-4618-85BA-1F1DAFC9CDA1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PalmeTestai", "PalmeTestai\PalmeTestai.csproj", "{2BD7D7CE-B2B3-4618-85BA-1F1DAFC9CDA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lessson 8 sd2-4", "lessson 8 sd2-4\lessson 8 sd2-4.csproj", "{7D68B483-F951-40F6-92E7-9697A87DE011}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{2BD7D7CE-B2B3-4618-85BA-1F1DAFC9CDA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BD7D7CE-B2B3-4618-85BA-1F1DAFC9CDA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BD7D7CE-B2B3-4618-85BA-1F1DAFC9CDA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D68B483-F951-40F6-92E7-9697A87DE011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D68B483-F951-40F6-92E7-9697A87DE011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D68B483-F951-40F6-92E7-9697A87DE011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D68B483-F951-40F6-92E7-9697A87DE011}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,18 @@
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\lessson 8 sd2-4\bin\Debug\net5.0-windows\lessson 8 sd2-4.exe
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\lessson 8 sd2-4\bin\Debug\net5.0-windows\lessson 8 sd2-4.deps.json
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\lessson 8 sd2-4\bin\Debug\net5.0-windows\lessson 8 sd2-4.runtimeconfig.json
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\lessson 8 sd2-4\bin\Debug\net5.0-windows\lessson 8 sd2-4.runtimeconfig.dev.json
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\lessson 8 sd2-4\bin\Debug\net5.0-windows\lessson 8 sd2-4.dll
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\lessson 8 sd2-4\bin\Debug\net5.0-windows\lessson 8 sd2-4.pdb
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\lessson 8 sd2-4\obj\Debug\net5.0-windows\lessson 8 sd2-4.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\lessson 8 sd2-4\obj\Debug\net5.0-windows\lessson_8_sd2_4.Form1.resources
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\lessson 8 sd2-4\obj\Debug\net5.0-windows\lessson 8 sd2-4.csproj.GenerateResource.cache
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\lessson 8 sd2-4\obj\Debug\net5.0-windows\lessson 8 sd2-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\lessson 8 sd2-4\obj\Debug\net5.0-windows\lessson 8 sd2-4.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\lessson 8 sd2-4\obj\Debug\net5.0-windows\lessson 8 sd2-4.AssemblyInfo.cs
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\lessson 8 sd2-4\obj\Debug\net5.0-windows\lessson 8 sd2-4.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\lessson 8 sd2-4\obj\Debug\net5.0-windows\lessson 8 sd2-4.dll
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\lessson 8 sd2-4\obj\Debug\net5.0-windows\refint\lessson 8 sd2-4.dll
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\lessson 8 sd2-4\obj\Debug\net5.0-windows\lessson 8 sd2-4.pdb
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\lessson 8 sd2-4\obj\Debug\net5.0-windows\lessson 8 sd2-4.genruntimeconfig.cache
+C:\Users\User\Desktop\repos\lesson 8\lesson 8\lessson 8 sd2-4\obj\Debug\net5.0-windows\ref\lessson 8 sd2-4.dll
