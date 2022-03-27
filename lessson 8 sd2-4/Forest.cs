@@ -7,7 +7,7 @@ using System.Windows.Forms;
 
 namespace lessson_8_sd2_4
 {
-    internal class Forest
+    internal struct Forest
     {
         public List<int> trees;
 
