@@ -9,33 +9,32 @@ namespace lessson_8_sd2_4
 {
     internal class Forest
     {
-        public List<int> Trees;
+        public List<int> trees;
 
-        public Forest()
+        public Forest(List<int> trees)
         {
-            Trees = new List<int>();           
+            this.trees = trees;           
         }
 
-        public void PlantATree(TextBox textBox)
+        public void PlantATree()
         {
-            Trees.Add(1);
-            textBox.Text += "New Tree has been planted succesfully!\r\n";
+            trees.Add(1);
         }
 
         public void ShowAllTrees(TextBox textBox)
         {
-            textBox.Text = $"{Trees.Count}";
+            textBox.Text = $"viso: {trees.Count}\r\n";
 
-            if (Trees.Count == 0) // null?
+            if (trees.Count == 0)
             {
                 textBox.Text = "miske dar nera medziu";
-                //return;
+                return;
             }
 
-            //for (int i = 0; i < Trees.Count; i++)
-            //{
-            //    textBox.Text += $"{i} : {Trees[i]}; ";
-            //}
+            for (int i = 0; i < trees.Count; i++)
+            {
+                textBox.Text += $"Medis{i}: {trees[i]}; ";
+            }
         }
     }
 }

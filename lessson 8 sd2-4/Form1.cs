@@ -12,17 +12,17 @@ namespace lessson_8_sd2_4
 {
     public partial class Form1 : Form
     {
-        Forest forest;
-
         public Form1()
         {
             InitializeComponent();
-            forest = new Forest();
         }
+
+        Forest forest = new Forest(new List<int> { });
 
         private void button1_Click(object sender, EventArgs e)
         {
-            forest.PlantATree(textBox1);
+            forest.PlantATree();
+            textBox1.Text = String.Join("; ", forest.trees);
         }
 
         private void button2_Click(object sender, EventArgs e)
